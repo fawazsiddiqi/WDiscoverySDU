@@ -29,7 +29,7 @@ Here is a great video that provides an overview of the benefits of SDU, and a wa
 
 [![video](https://img.youtube.com/vi/-yniuX-Poyw/0.jpg)](https://youtu.be/-yniuX-Poyw)
 
-## Prerequisite 
+# Prerequisite 
 Create your IBM Cloud account at: https://ibm.biz/BdqLCZ
 # Steps:
 
